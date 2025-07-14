@@ -3,24 +3,42 @@ const express = require('express');
 const dotenv = require('dotenv');
 const cors = require('cors');
 const connectDB = require('./config/db');
+const { handleWebhook } = require('./controllers/stripeController');
+const { protect } = require('./middleware/auth');
+const userRoutes = require('./routes/userRoutes');
+const { signupUser } = require('./controllers/userController');
 
 // Load env vars
-dotenv.config({ path: './.env' });
+dotenv.config();
 
 connectDB();
 
 const app = express();
 
-// Body parser
+// Stripe webhook needs the raw body, so it must be configured before express.json()
+app.post('/api/stripe/webhook', express.raw({type: 'application/json'}), handleWebhook);
+
+// Body parser for other routes
 app.use(express.json());
 
 // Enable CORS
 app.use(cors());
 
-// Mount routers
-app.use('/api/invoices', require('./routes/invoiceRoutes'));
-app.use('/api/clients', require('./routes/clientRoutes'));
-app.use('/api/payments', require('./routes/paymentRoutes'));
+// --- Unprotected Routes ---
+app.post('/api/users/signup', signupUser);
+
+
+// --- Protected Routes ---
+app.use('/api/invoices', protect, require('./routes/invoiceRoutes'));
+app.use('/echo',(req, res) =>{res.json({message: 'Hello from the server!'});}); 
+app.use('/api/clients', protect, require('./routes/clientRoutes'));
+app.use('/api/payments', protect, require('./routes/paymentRoutes'));
+app.use('/api/users', protect, userRoutes);
+app.use('/api/subscriptions', protect, require('./routes/subscriptionRoutes'));
+
+// Unprotected or manually protected routes
+app.use('/api/stripe', protect, require('./routes/stripeRoutes'));
+
 
 const PORT = process.env.API_PORT || 8080;
 

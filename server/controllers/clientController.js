@@ -68,3 +68,25 @@ exports.deleteClient = async (req, res, next) => {
         res.status(400).json({ success: false, message: err.message });
     }
 };
+
+// @desc    Add a note to a client
+// @route   POST /api/clients/:id/notes
+exports.addClientNote = async (req, res, next) => {
+    try {
+        const client = await Client.findById(req.params.id);
+        if (!client) {
+            return res.status(404).json({ success: false, message: 'Client not found' });
+        }
+        const { content } = req.body;
+        if (!content) {
+            return res.status(400).json({ success: false, message: 'Note content is required' });
+        }
+        const newNote = { content, date: new Date() };
+        client.notes.unshift(newNote); // Add to the beginning of the array to show newest first
+        await client.save();
+        const populatedClient = await Client.findById(req.params.id);
+        res.status(201).json(populatedClient);
+    } catch (err) {
+        res.status(400).json({ success: false, message: err.message });
+    }
+};

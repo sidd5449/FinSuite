@@ -1,0 +1,302 @@
+{
+  "node": {
+    "0048a48c391944101ca461baa975c9ef65de065378": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "00560672c64e45363092afb0d15697cb0c1b7578dd": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "0061a977c0bdce8138f66038230d4c9f1e97b4c8af": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "006af84dbf2c15038e20fc6e7474553012ae3e9aab": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "006fc2408b0782a153c0b5e6f47c91f6b36fb051d6": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "00b97f2d2beaced28ab204cf9a2f0a123b7fa0c8a8": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "4007711d8fb88cef93e99592e68252dda8bc6aad22": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "400b57146f5bb80bf859aaa204e85041ae0ac75c29": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "4020e5b899d41920fcd778593f8869a1da576f1f1c": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "action-browser"
+      }
+    },
+    "405152ff3a40a196d9214e38e0856a4a810ec7ffd5": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "40571a529812a23dab5eb5838e6a3802dc02b5abc6": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "40585396163eb38f319b131cad08823913497a5525": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "4066f80a7232432b5df31846680b397374d0ae1c48": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "409147230d471bce2d4f0cd9c1c929d968f19d70aa": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "409a2c7b39bfca82f535c931cd3498c9b5ba2f2446": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "409b732ef9a3c8dac4be585e4227fbcebe30f0a62f": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "40e6c9b4d00e879ecf8bf2f6b814e5e748389bc932": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "60024dffa0d0cc69a6f706eb3f93c704b8442b45e5": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "6022515baac67e249b971fdcb87a7afd26471c4456": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "6046b9ca959a603f3fa8593e0594ce08293caadb0a": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "60729b6657193070511cbe65e954f6021f9afdc1d1": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "60a4fd60462b6366e024c1e2491087433bf16dc8ac": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "60f0a74f9f5b83a26b6bb727ce858eb82988f6a2ef": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "60f8b62e9286de4cdbb943a90e95ace84b79cf6614": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "402d3da72142d214645d22c799edd82d841f87c8f1": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "409f4315de2ad73839ce55243247c833260256acab": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    },
+    "4090c577f28076c0846d9243e9f2d2b511735d51e6": {
+      "workers": {
+        "app/dashboard/billing/page": {
+          "moduleId": "[project]/.next-internal/server/app/dashboard/billing/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/src/ai/flows/generate-financial-insights.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/src/ai/flows/generate-invoice-from-text.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE3 => \"[project]/src/ai/flows/calculate-tax.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/billing/page": "rsc"
+      }
+    }
+  },
+  "edge": {}
+}

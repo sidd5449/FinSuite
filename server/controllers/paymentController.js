@@ -6,7 +6,13 @@ const Invoice = require('../models/Invoice');
 // @route   GET /api/payments
 exports.getPayments = async (req, res, next) => {
     try {
-        const payments = await Payment.find().populate('invoiceId');
+        const payments = await Payment.find().populate({
+            path: 'invoiceId',
+            populate: {
+                path: 'client',
+                model: 'Client'
+            }
+        }).sort({ date: -1 });
         res.status(200).json(payments);
     } catch (err) {
         res.status(400).json({ success: false, message: err.message });
@@ -32,8 +38,16 @@ exports.createPayment = async (req, res, next) => {
             method,
             date: new Date()
         });
+        
+        const populatedPayment = await Payment.findById(payment._id).populate({
+            path: 'invoiceId',
+            populate: {
+                path: 'client',
+                model: 'Client'
+            }
+        });
 
-        res.status(201).json(payment);
+        res.status(201).json(populatedPayment);
     } catch (err) {
         res.status(400).json({ success: false, message: err.message });
     }

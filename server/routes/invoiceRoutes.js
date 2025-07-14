@@ -6,6 +6,9 @@ const {
     createInvoice,
     updateInvoice,
     deleteInvoice,
+    updateInvoiceStatus,
+    sendInvoiceReminder,
+    confirmStripePayment,
 } = require('../controllers/invoiceController');
 
 const router = express.Router();
@@ -17,5 +20,11 @@ router
     .get(getInvoice)
     .put(updateInvoice)
     .delete(deleteInvoice);
+
+router.route('/:id/status').put(updateInvoiceStatus);
+
+router.route('/:id/confirm-payment').post(confirmStripePayment);
+
+router.route('/:id/remind').post(sendInvoiceReminder);
 
 module.exports = router;
